@@ -1,3 +1,3 @@
 # hello there
 
-have a good day lol
+have a good day lol!
